@@ -36,6 +36,11 @@ li{
 	border-style: none;
 }
 
+a{
+    text-decoration: none;
+    color: white;
+}
+
 div{
 	background-color: white;
 	
@@ -50,15 +55,6 @@ footer{
 	background-color:#872522;
 	color: #fff;
 }
-
-
-
-/*form{
-    margin: 0px auto;
-	width: 770px;
-	font-family: times;
-	
-}*/
 
 h3{
 	padding: 20px 0px 10px 15px;
@@ -94,4 +90,8 @@ span{
 	font-family: times;
 	padding: 20px auto;
 	width: 100%;
+}
+
+.paragraph{
+	padding: 10px auto;
 }
